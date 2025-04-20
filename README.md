@@ -1,5 +1,4 @@
 # Internship Task
-
 This repository contains tasks completed as part of an internship program. Each task involves data analysis, preprocessing, and machine learning techniques. Below is a detailed explanation of each task:
 
 ## Task 2: Sentiment Analysis on IMDB Dataset
